@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NanaMy</string>
+    <string name="header_hijau">Header Hijau</string>
+    <string name="ornament_header">Ornament Header</string>
+    <string name="cari_tanamanmu">Cari Tanamanmu</string>
+    <string name="icon_search">Icon Search</string>
+    <string name="icon_favorit">Icon Favorit</string>
+    <string name="icon_notification">Icon Notification</string>
+    <string name="selamat_datang_di_nanamy">Selamat Datang di NanaMy,</string>
+    <string name="icon_voucher">Icon Voucher</string>
+    <string name="klaim_vouchermu">Klaim Vouchermu</string>
+    <string name="klaim">KLAIM</string>
+    <string name="icon_tanaman_hias">Icon Tanaman Hias</string>
+    <string name="icon_tanaman_lainnya">Icon Tanaman Lainnya</string>
+    <string name="icon_tanaman_buah">Icon Tanaman Buah</string>
+    <string name="icon_tanaman_obat">Icon Tanaman Obat</string>
+    <string name="tanaman_hias">Tanaman Hias</string>
+    <string name="tanaman_obat">Tanaman Obat</string>
+    <string name="tanaman_buah">Tanaman Buah</string>
+    <string name="lainnya">Lainnya</string>
+    <string name="sedang_promo">Sedang Promo</string>
+    <string name="lihat_semua">Lihat Semua</string>
+    <string name="icon_lidah_mertua">Icon Lidah Mertua</string>
+    <string name="icon_aglaonema">Icon Aglaonema</string>
+    <string name="menu_bar">Menu Bar</string>
+    <string name="icon_home">Icon Home</string>
+    <string name="icon_message">Icon Message</string>
+    <string name="icon_cart">Icon Cart</string>
+    <string name="icon_user">Icon User</string>
+    <string name="beli_dan_jual_tanamanmu">Beli dan Jual Tanamanmu</string>
+</resources>
